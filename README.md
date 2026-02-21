@@ -31,7 +31,7 @@ API-based Weather Data
 
 Dashboard Preview
 
-(Add screenshot here)..........
+(screenshot ](https://github.com/vrush111/Live-Weather-Analytics-Dashboard-PowerBI/blob/main/Live-Weather-Analytics-Dashboard-PowerBI%20SC.png))..........
 
 💡 Key Learnings
 
